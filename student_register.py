@@ -5,6 +5,8 @@ def register_students():
         
         # Open the file in write mode
         with open('reg_form.txt', 'w') as file:
+            # Write the "Student IDs" heading to the file
+            file.write("Student IDs\n")
             # Loop for each student
             for i in range(num_students):
                 # Ask the user to enter the next student ID number
