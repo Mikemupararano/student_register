@@ -50,7 +50,7 @@ A screenshot of the printed work is shown here:
 
 ![A screenshot :](./student-register.png)
 
-The repository can be accessed using this link:https://github.com/Mikemupararano/file-io-operations.
+The repository can be accessed using this link:https://github.com/Mikemupararano/student_register.
 
 ## License
 This application is covered under the MIT license.
